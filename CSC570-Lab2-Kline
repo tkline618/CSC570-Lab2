@@ -1,0 +1,15 @@
+"""
+CSC570 Data Science Essentials
+Fall 2015
+Lab 2 - Set Up Git
+
+Name: Trudy Kline
+"""
+
+def main():
+    
+#Print Hello World
+    print 'Hello World'
+
+if __name__ == '__main__':
+    main()
